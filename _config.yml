@@ -1,6 +1,6 @@
 # main text of home
 name: il0g
-bio: Tech, Food, Travel & Beer ;-)
+bio: Tech, Travel & Beer ;-)
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -55,10 +55,10 @@ email: varun.pilankar@gmail.com
 authors:
     johndoe:
         name: Varun Pilankar
-        bio: A Man who travels the world eating noodles
+        bio: Tech, Travel & Beer ;-)
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
+        twitter: varunpilankar
     jamesfoster:
         name: James Foster
         bio: A Man who develops software with coffee
