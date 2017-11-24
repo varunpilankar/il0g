@@ -9,16 +9,16 @@ media_folder: "source/img/uploads" # Folder where user uploaded files should go
 public_folder: "source" # CMS now knows 'source' is the public folder and will strip this from the path
 
 
-collections: # A list of collections the CMS should be able to edit
-  - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Post" # Used in the UI, ie.: "New Post"
-    folder: "source/posts" # The path to the folder where the documents are stored
+collections:
+  - name: "blog" # Used in routes, e.g. /admin/collections/blog
+    label: "Blog" # Used in the UI
+    folder: "_posts/blog" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
-    sort: "date:asc" # Default is title:asc
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    fields: # The fields each document in this collection have
-      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
-      - {label: "Layout", name: "layout", widget: "hidden", default: "post-layout"}
-      - {label: "Category", name: "category", widget: "string", tagname: "p"}
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template i.e. YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
+      - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-- {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Featured Image", name: "thumbnail", widget: "image"}
+      - {label: "Rating (scale of 1-5)", name: "rating", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}
