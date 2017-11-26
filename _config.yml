@@ -36,9 +36,9 @@ disqus:
 # if you don't have any of social below, comment the line
 facebook: varunpilankar
 twitter: varunpilankar
-# google: mygoogle
+google: mygoogle
 # instagram: myinstagram
-# pinterest: mypinterest
+# pinterest: varunpilankar
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
@@ -53,18 +53,12 @@ github: varunpilankar
 email: varun.pilankar@gmail.com
 
 authors:
-    johndoe:
+    varunpilankar:
         name: Varun Pilankar
         bio: Tech, Travel & Beer ;-)
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: varunpilankar
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
+        twitter: varunpilankar            
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
