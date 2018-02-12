@@ -12,7 +12,7 @@ layout: page
 
 <li>HTML </li>
 
- <li>Responsive (Mobile First)</li> 
+<li>Responsive (Mobile First)</li> 
 
 <li>CSS Frameworks (Bootstrap)</li>
 
@@ -22,7 +22,7 @@ layout: page
 
 <li>PHP</li>
 
- <li>Python</li>
+<li>Python</li>
 
 <li>C/C++</li>
 
@@ -36,9 +36,9 @@ layout: page
 
 <li>Virtualization - Proxmox</li>
 
-<li>Cloud Computing – AWS, GCP, Azure</li>
+<li>Cloud Computing – AWS, GCP</li>
 
- <li>Lean & Scrum – Project Management</li>
+<li>Lean & Scrum – Project Management</li>
 
 <li>Entrepreneurship</li>
 
