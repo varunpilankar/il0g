@@ -28,11 +28,11 @@ layout: page
 
 <li>OOP (C++ & Python)</li>
 
-<li>Linux – Debian, Ubuntu, OpenMediaVault</li>
+<li>Linux – Debian, Ubuntu</li>
 
 <li>Android – ROM & Kernel Development</li>
 
-<li>Networking/Storage</li>
+<li>Networking/Storage - OpenWRT, pfSense, OpenMediaVault</li>
 
 <li>Virtualization - Proxmox</li>
 
