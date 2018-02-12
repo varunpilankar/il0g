@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I'm Computer Science Instructor and Co-Founder of eHom. I love coding to solve my daily problems. Born and bought up in Mumbai, the city that never sleeps. Inherent Food experimenter, but turned Vegetarian.</p>
+<p>I'm Computer Science Instructor and Co-Founder of <a href= "www.ehom.co.in">eHom</a>. I love coding to solve my daily problems. Born and bought up in Mumbai, the city that never sleeps. Inherent Food experimenter, but turned Vegetarian.</p>
 
 <h2>Skills</h2>
 
