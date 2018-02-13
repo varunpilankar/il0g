@@ -4,11 +4,9 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>
+<p>Welcome to il0g,</p>
 
-Welcome to il0g,
-
-I'm Indrasen Pilankar aka Varun, a Computer Science Instructor and Co-Founder of <a href= "http://www.ehom.co.in">eHom</a>. I love coding to solve my daily problems. Born and bought up in Mumbai, the city that never sleeps. Inherent Food experimenter, but turned Vegetarian.</p>
+<p>I'm Indrasen Pilankar aka Varun, a Computer Science Instructor and Co-Founder of <a href= "http://www.ehom.co.in">eHom</a>. I love coding to solve my daily problems. Born and bought up in Mumbai, the city that never sleeps. Inherent Food experimenter, but turned Vegetarian.</p>
 
 <h2>Skills</h2>
 
