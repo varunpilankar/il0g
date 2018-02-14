@@ -36,14 +36,14 @@ disqus:
 # if you don't have any of social below, comment the line
 #facebook: facebook
 twitter: varunpilankar
-google: mygoogle
+# google: mygoogle
 # instagram: myinstagram
-# pinterest: varunpilankar
+pinterest: varunpilankar
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
 github: varunpilankar
-paypal: inpilankar
+# paypal: inpilankar
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
